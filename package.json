@@ -1,0 +1,15 @@
+{
+  "name": "fc-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BowTiedRadone",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "fast-check": "^3.23.2"
+  }
+}
